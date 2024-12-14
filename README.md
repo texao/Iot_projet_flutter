@@ -16,8 +16,8 @@ Le but de ce TP est de se familiariser avec la création d'interfaces graphiques
 ## Utilisation
 1. Dézipper le projet.
 2. Ouvrir les dossiers sur Android Studio :
-   - Le dossier nommé **"projet_flutter"** correspond à l'application **profil**.
-   - Le dossier nommé **"quizz"** correspond à l'application **quizz**.
+   - Le projet nommé **"profil.zip"** correspond à l'application **profil**.
+   - Le dossier nommé **"quizz.zip"** correspond à l'application **quizz**.
 3. Exécuter les applications en cliquant sur **Run**.
 
 
