@@ -9,9 +9,7 @@ Le but de ce TP est de se familiariser avec la création d'interfaces graphiques
 - **Flutter** : SDK installé.
 - **Android Studio** : environnement de développement configuré.
 - **Dart** : langage utilisé pour développer l'application.
-- **GitHub** : Télécharger le code source depuis le lien suivant qui est aussi sur le rraport :  
-  [Code source sur GitHub](https://github.com/texao/Flutter_tp1)  
-  
+- Télécharger les codes sources **"profil.zip"** et **"quizz.zip"**.
 
 ## Utilisation
 1. Dézipper le projet.
