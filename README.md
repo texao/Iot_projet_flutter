@@ -43,4 +43,4 @@ Ce projet est composé de deux exercices principaux :
 - Un **stateful widget** pour gérer l'état des réponses.
   - Les widgets principaux :
     - **Scaffold** : pour la structure de la page.
-    - **setState** : pour gérer dynamiquement les changements dans le quiz.
+    - **setState** : pour gérer dynamiquement les changements dans le quizz.
